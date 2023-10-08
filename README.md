@@ -16,4 +16,4 @@ delete_space_parentheses          ：同时删除空格和括号
 jpg_lot2_png                      ：jpg文件批量转为png文件  
   
   
-由chatGPT辅助完成 Assisted by chatGPT  
+由chatGPT和李赞共同一作完成 Assisted by chatGPT  
