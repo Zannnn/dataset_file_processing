@@ -1,9 +1,9 @@
 # dataset_file_processing(!! Remember to back up before processing!!)
-Instructions in Chinese are below 中文说明在下面 
-Put the bat file in the folder that you want to process and double-click it to use it
-
-
-
+Instructions in Chinese are below 中文说明在下面 \t
+Put the bat file in the folder that you want to process and double-click it to use it\t
+\t
+\t
+\t
 
 
 # 数据集文件处理工具（！！！处理前切记备份！！！）
