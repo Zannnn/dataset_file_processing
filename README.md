@@ -14,9 +14,9 @@ delete_parentheses                ：删除括号
 delete_space                      ：删除空格  
 delete_space_parentheses          ：同时删除空格和括号  
 jpg_lot2_png                      ：jpg文件批量转为png文件  
-delete_by_otherName               : 删除A文件夹中B文件夹没有的文件
-img32to24                         ：32位的图片转为24位
-文件名批量入txt                    ：将文件夹中的文件名（不含后缀名）换行导入txt中
+delete_by_otherName               : 删除A文件夹中B文件夹没有的文件  
+img32to24                         ：32位的图片转为24位  
+文件名批量入txt                    ：将文件夹中的文件名（不含后缀名）换行导入txt中  
   
   
 由chatGPT和李赞共同一作完成 Assisted by chatGPT  
