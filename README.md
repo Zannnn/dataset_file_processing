@@ -19,4 +19,4 @@ img32to24                         ：32位的图片转为24位
 文件名批量入txt                    ：将文件夹中的文件名（不含后缀名）换行导入txt中  
   
   
-由chatGPT和李赞共同一作完成 Assisted by chatGPT  
+由chatGPT和Zan共同一作完成 Assisted by chatGPT  
